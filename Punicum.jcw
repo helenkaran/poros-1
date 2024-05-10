@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jcross-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>eleni</dc:creator>
+    <dc:title>PUNICUM</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>7</version>
+
+<data>
+<title>PUNICUM</title>
+
+
+
+<timer><seconds>300</seconds><include-timer>1</include-timer></timer><reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<crossword>
+<grid><row><cell>T</cell><cell>R</cell><cell>A</cell><cell>S</cell><cell>I</cell><cell>M</cell><cell>E</cell><cell>N</cell><cell>U</cell><cell>M</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>A</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>G</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>U</cell><cell></cell><cell></cell><cell>C</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>H</cell><cell>A</cell><cell>N</cell><cell>N</cell><cell>I</cell><cell>B</cell><cell>A</cell><cell>L</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>I</cell><cell></cell><cell></cell><cell>T</cell><cell></cell><cell></cell><cell>N</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>S</cell><cell></cell><cell></cell><cell>U</cell><cell></cell><cell></cell><cell>N</cell><cell></cell><cell>F</cell><cell></cell><cell></cell><cell>S</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>P</cell><cell></cell><cell></cell><cell>M</cell><cell></cell><cell>Z</cell><cell>A</cell><cell>M</cell><cell>A</cell><cell>M</cell><cell></cell><cell>C</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>A</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>E</cell><cell></cell><cell>L</cell><cell></cell><cell></cell><cell>I</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>N</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>E</cell><cell></cell><cell></cell><cell>P</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>I</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>T</cell><cell>R</cell><cell>E</cell><cell>B</cell><cell>I</cell><cell>A</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>A</cell><cell>L</cell><cell>P</cell><cell>E</cell><cell>S</cell><cell></cell><cell></cell><cell></cell><cell>N</cell><cell></cell><cell></cell><cell>O</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>U</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>T</cell><cell>I</cell><cell>C</cell><cell>I</cell><cell>N</cell><cell>U</cell><cell>S</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></grid>
+
+<clues><item><word>TRASIMENUM</word><def>&amp;#x039B;&amp;#x03AF;&amp;#x03BC;&amp;#x03BD;&amp;#x03B7; &amp;#x03C3;&amp;#x03C4;&amp;#x03B7;&amp;#x03BD; &amp;#x0399;&amp;#x03C4;&amp;#x03B1;&amp;#x03BB;&amp;#x03AF;&amp;#x03B1;</def></item><item><word>HANNIBAL</word><def>&amp;#x0391;&amp;#x03B4;&amp;#x03B9;&amp;#x03B1;&amp;#x03C6;&amp;#x03B9;&amp;#x03BB;&amp;#x03BF;&amp;#x03BD;&amp;#x03AF;&amp;#x03BA;&amp;#x03B7;&amp;#x03C4;&amp;#x03BF;&amp;#x03C2; &amp;#x03C3;&amp;#x03C4;&amp;#x03C1;&amp;#x03B1;&amp;#x03C4;&amp;#x03B7;&amp;#x03B3;&amp;#x03CC;&amp;#x03C2;</def></item><item><word>ZAMAM</word><def>apud &amp;#x03B5;&amp;#x03BA;&amp;#x03B5;&amp;#x03AF; &amp;#x03AD;&amp;#x03C7;&amp;#x03B1;&amp;#x03C3;&amp;#x03B5; &amp;#x03BF; &amp;#x0391;&amp;#x03BD;&amp;#x03BD;&amp;#x03AF;&amp;#x03B2;&amp;#x03B1;&amp;#x03C2;</def></item><item><word>TREBIA</word><def>&amp;#x03A0;&amp;#x03BF;&amp;#x03C4;&amp;#x03B1;&amp;#x03BC;&amp;#x03CC;&amp;#x03C2; &amp;#x03BA;&amp;#x03BF;&amp;#x03BD;&amp;#x03C4;&amp;#x03AC; &amp;#x03C3;&amp;#x03C4;&amp;#x03B7;&amp;#x03BD; &amp;#x03A4;&amp;#x03BF;&amp;#x03C3;&amp;#x03BA;&amp;#x03AC;&amp;#x03BD;&amp;#x03B7;</def></item><item><word>ALPES</word><def>&amp;#x039F;&amp;#x03C1;&amp;#x03BF;&amp;#x03C3;&amp;#x03B5;&amp;#x03B9;&amp;#x03C1;&amp;#x03AC; &amp;#x03C0;&amp;#x03BF;&amp;#x03C5; &amp;#x03C6;&amp;#x03B7;&amp;#x03BC;&amp;#x03AF;&amp;#x03B6;&amp;#x03B5;&amp;#x03C4;&amp;#x03B1;&amp;#x03B9; &amp;#x03B3;&amp;#x03B9;&amp;#x03B1; &amp;#x03C4;&amp;#x03BF;...&amp;#x03C3;&amp;#x03BA;&amp;#x03B9;</def></item><item><word>TICINUS</word><def>&amp;#x03A0;&amp;#x03BF;&amp;#x03C4;&amp;#x03B1;&amp;#x03BC;&amp;#x03CC;&amp;#x03C2; &amp;#x03BA;&amp;#x03BF;&amp;#x03BD;&amp;#x03C4;&amp;#x03AC; &amp;#x03C3;&amp;#x03C4;&amp;#x03BF; &amp;#x039C;&amp;#x03B9;&amp;#x03BB;&amp;#x03AC;&amp;#x03BD;&amp;#x03BF;</def></item><item><word>SAGUNTUM</word><def>&amp;#x0391;&amp;#x03C0;&amp;#x03CC; &amp;#x03B5;&amp;#x03BA;&amp;#x03B5;&amp;#x03AF; &amp;#x03BE;&amp;#x03B5;&amp;#x03BA;&amp;#x03AF;&amp;#x03BD;&amp;#x03B7;&amp;#x03C3;&amp;#x03B5; &amp;#x03C4;&amp;#x03B9;&amp;#x03C2; &amp;#x03BD;&amp;#x03AF;&amp;#x03BA;&amp;#x03B5;&amp;#x03C2; &amp;#x03C4;&amp;#x03BF;&amp;#x03C5; &amp;#x03BF; &amp;#x0391;&amp;#x03BD;&amp;#x03BD;&amp;#x03AF;&amp;#x03B2;&amp;#x03B1;&amp;#x03C2;</def></item><item><word>CANNAE</word><def>&amp;#x0395;&amp;#x03BA;&amp;#x03B5;&amp;#x03AF; &amp;#x03B3;&amp;#x03AF;&amp;#x03BD;&amp;#x03B5;&amp;#x03C4;&amp;#x03B1;&amp;#x03B9; &amp;#x03C4;&amp;#x03BF; &amp;#x03C6;&amp;#x03B5;&amp;#x03C3;&amp;#x03C4;&amp;#x03B9;&amp;#x03B2;&amp;#x03AC;&amp;#x03BB; &amp;#x03C4;&amp;#x03BF;&amp;#x03C5; &amp;#x03BA;&amp;#x03B9;&amp;#x03BD;&amp;#x03B7;&amp;#x03BC;&amp;#x03B1;&amp;#x03C4;&amp;#x03BF;&amp;#x03B3;&amp;#x03C1;&amp;#x03AC;&amp;#x03C6;&amp;#x03BF;&amp;#x03C5;</def></item><item><word>HISPANIA</word><def>&amp;#x03A7;&amp;#x03CE;&amp;#x03C1;&amp;#x03B1; &amp;#x03C3;&amp;#x03C4;&amp;#x03B7;&amp;#x03BD; &amp;#x0399;&amp;#x03B2;&amp;#x03B7;&amp;#x03C1;&amp;#x03B9;&amp;#x03BA;&amp;#x03AE; &amp;#x03C7;&amp;#x03B5;&amp;#x03C1;&amp;#x03C3;&amp;#x03CC;&amp;#x03BD;&amp;#x03B7;&amp;#x03C3;&amp;#x03BF;</def></item><item><word>FALERNUS</word><def>ager....&amp;#x0395;&amp;#x03BA;&amp;#x03B5;&amp;#x03AF; &amp;#x03C3;&amp;#x03C4;&amp;#x03AE;&amp;#x03B8;&amp;#x03B7;&amp;#x03BA;&amp;#x03B5; &amp;#x03BC;&amp;#x03B5;&amp;#x03B3;&amp;#x03AC;&amp;#x03BB;&amp;#x03B7; &amp;#x03B5;&amp;#x03BD;&amp;#x03AD;&amp;#x03B4;&amp;#x03C1;&amp;#x03B1;</def></item><item><word>SCIPIO</word><def>&amp;#x039F; &amp;#x03BD;&amp;#x03B9;&amp;#x03BA;&amp;#x03AE;&amp;#x03C4;&amp;#x03AE;&amp;#x03C2; &amp;#x03C4;&amp;#x03BF;&amp;#x03C5; &amp;#x0391;&amp;#x03BD;&amp;#x03BD;&amp;#x03AF;&amp;#x03B2;&amp;#x03B1;</def></item></clues>
+</crossword>
+</data>
+
+<hotpot-config-file>
+<jcross>
+<exercise-subtitle>&amp;#x03A3;&amp;#x03C4;&amp;#x03B1;&amp;#x03C5;&amp;#x03C1;&amp;#x03CC;&amp;#x03BB;&amp;#x03B5;&amp;#x03BE;&amp;#x03BF; &amp;#x03C3;&amp;#x03C4;&amp;#x03BF; &amp;#x03BC;&amp;#x03AC;&amp;#x03B8;&amp;#x03B7;&amp;#x03BC;&amp;#x03B1; &amp;#x03A7;&amp;#x0399;</exercise-subtitle>
+<instructions>&amp;#x03A3;&amp;#x03C5;&amp;#x03BC;&amp;#x03C0;&amp;#x03BB;&amp;#x03B7;&amp;#x03C1;&amp;#x03CE;&amp;#x03C3;&amp;#x03C4;&amp;#x03B5; &amp;#x03BC;&amp;#x03B5; &amp;#x03BA;&amp;#x03B5;&amp;#x03C6;&amp;#x03B1;&amp;#x03BB;&amp;#x03B1;&amp;#x03AF;&amp;#x03B1; &amp;#x03B3;&amp;#x03C1;&amp;#x03AC;&amp;#x03BC;&amp;#x03BC;&amp;#x03B1;&amp;#x03C4;&amp;#x03B1;.</instructions>
+<guess-correct>Correct! Well done.</guess-correct>
+<guess-incorrect>Some of your answers are incorrect. Incorrect squares have been blanked out.</guess-incorrect>
+<clues-across>Across:</clues-across>
+<clues-down>Down:</clues-down>
+<next-correct-letter>A correct letter has been added.</next-correct-letter>
+<include-keypad>0</include-keypad>
+<include-clue-list>0</include-clue-list>
+<enter-caption>Enter</enter-caption>
+<include-hint>1</include-hint>
+<case-sensitive>0</case-sensitive>
+<next-ex-url>nextpage.htm</next-ex-url>
+<send-email>0</send-email>
+<separate-javascript-file>0</separate-javascript-file>
+</jcross>
+
+<global>
+<your-score-is>Your score is </your-score-is>
+<check-caption>Check</check-caption>
+<ok-caption>OK</ok-caption>
+<hint-caption>Hint</hint-caption>
+<keypad-characters></keypad-characters>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+<next-ex-caption>=&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;=</back-caption>
+<contents-caption>Index</contents-caption>
+<include-next-ex>1</include-next-ex>
+<include-contents>1</include-contents>
+<include-back>0</include-back>
+<contents-url>contents.htm</contents-url>
+<graphic-url></graphic-url>
+<font-face>Geneva,Arial,sans-serif</font-face>
+<font-size>medium</font-size>
+<page-bg-color>#008040</page-bg-color>
+<title-color>#ff0000</title-color>
+<ex-bg-color>#c0c0c0</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#0000FF</link-color>
+<vlink-color>#0000CC</vlink-color>
+<nav-bar-color>#808000</nav-bar-color>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<email>you@yourserver.com</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code></header-code>
+</global>
+</hotpot-config-file>
+</hotpot-jcross-file>
